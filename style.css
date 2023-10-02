@@ -929,7 +929,7 @@ noscript{
 }
 /* hover effect on dp */
 .dp:hover::after{
-    transform: translate(20px,20px);
+    transform: translate(20px,40px);
     transition-duration: .5s;
 }
 .dp:hover::before{
